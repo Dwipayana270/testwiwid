@@ -1,0 +1,1 @@
+﻿positionForPages[43]={page:43,positions:[{word:"39 ",left:0.859043,top:0.927747,width:0.025192,height:0.012938},{word:"Penyelesaian: ",left:0.166325,top:0.107929,width:0.122574,height:0.012713}]};

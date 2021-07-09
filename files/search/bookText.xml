@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="37"><page Index="1"><![CDATA[1]]></page><page Index="2"><![CDATA[PROGRAM STUDI PENDIDIKAN MATEMATIKA
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="44"><page Index="1"><![CDATA[1]]></page><page Index="2"><![CDATA[PROGRAM STUDI PENDIDIKAN MATEMATIKA
 
                                    UNDIKSHA
 
@@ -137,18 +137,18 @@
 
                B.  Hubungan Sudut Pusat dan Sudut Keliling Lingkaran  ............................................9
 
-               C.  Panjang Busur dan Luas Juring Lingkaran  ..............................................................13
-                   C.1 Panjang Busur Lingkaran  .....................................................................................13
+               C.  Panjang Busur dan Luas Juring Lingkaran  ..............................................................15
+                   C.1 Panjang Busur Lingkaran  .....................................................................................18
 
-                   C.2 Luas Juring Lingkaran  ..........................................................................................17
-               D.  Garis Singgung Lingkaran  ...........................................................................................22
+                   C.2 Luas Juring Lingkaran  ..........................................................................................21
+               D.  Garis Singgung Lingkaran  ...........................................................................................28
 
-                   D.1 Pengertian Garis Singgung Lingkaran  ................................................................22
-                   D.2 Garis Singgung Persekutuan Dalam Dua Lingkaran  .........................................23
+                   D.1 Pengertian Garis Singgung Lingkaran  ................................................................28
+                   D.2 Garis Singgung Persekutuan Dalam Dua Lingkaran  .........................................29
 
-                   D.3 Garis Singgung Persekutuan Luar Dua Lingkaran  ...........................................27
+                   D.3 Garis Singgung Persekutuan Luar Dua Lingkaran  ...........................................32
 
-               DAFTAR PUSTAKA
+               DAFTAR RUJUKAN
 
 
 
@@ -621,8 +621,8 @@
 
                                                            Tabel 1
 
-                        No.                       Pernyataan                        Benar/Salah
-
+                                                                                    Benar/Salah
+                        No.                       Pernyataan
                          1    Panjang diameter sama dengan 2 kali panjang jari-jari
 
                               lingkaran
@@ -781,22 +781,21 @@
 
 
                        Lengkapi tabel 2 dengan berbantuan geogebra yang telah disediakan berikut ini. Seperti
+
                pada video 3, geser slider sudut pusat sesuai dengan besar sudut pusat pada tabel dan tulis besar
-
                sudut keliling pada kolom ukuran sudut keliling pada tabel 2 berikut.
-               Geogebra dapat diakses pada: https://www.geogebra.org/m/dqcdgres
 
+               Geogebra dapat diakses pada: https://www.geogebra.org/m/dqcdgres
                        Bandingkan  ukuran  sudut  pusat  dengan  ukuran  sudut  keliling  dan  carilah  sampai
 
                dibentuk yang paling sederhana kemudian hasilnya ditulis pada kolom ketiga seperti contoh 1.
+
                                                          Tabel 2
-
                              Ukuran         Ukuran
-
                               Sudut          Sudut
                               Pusat         Keliling
-                                  o
                                                  o
+                                  o
                                90              45                      90  :  45  2
                                                                               =
                                                                        45  :  45  1
@@ -812,7 +811,6 @@
 
 
                KEGIATAN B.3
-
 
 
 
@@ -834,7 +832,9 @@
                     Lakukanlah perkalian silang persamaan 1, hingga memperoleh
 
 
+
                                     Ukuran sudut pusat = ….. ukuran sudut keliling
+
 
 
 
@@ -876,7 +876,8 @@
                    Berdasarkan  konsep  hubungan  sudut  pusat  dan  sudut  keliling  lingkaran  yang  telah
                ditemukan, jawablah pertanyaan berikut ini.
 
-               1.  Perhatikan gambar berikut.
+                                                                   o
+               1.  Pada gambar berikut, diketahui besar  ∠AOB  =  80 . Hitunglah besar  ACB∠  .
 
 
 
@@ -884,6 +885,56 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Penyelesaian:
+
+
+
+
+
+
+
+                                                                                                       11]]></page><page Index="16"><![CDATA[o
+               2.  Pada gambar di samping, besar  ∠PQR   =  48 . Hitunglah besar  POQ∠  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Penyelesaian:
+
+
+
+
+
+
+
+
+               3.  Perhatikan gambar berikut.
 
 
 
@@ -907,30 +958,105 @@
                    Jika ∠APE   =  100 , tentukanlah besar  ADE∠  ,  ACE∠  , dan  ABE∠   serta hubungan ketiga
                    sudut tersebut.
 
+                   Penyelesaian:
 
 
-                                                                                                       11]]></page><page Index="16"><![CDATA[Penyelesaian:
-
-                   •  Karena  APB∠   dan  ADE∠   menghadap busur yang sama yaitu busur AE maka:
-                       ∠ADE   =  .......... .......... .......... .......... ........
-
-                   •  Karena  APB∠   dan  ACE∠  menghadap busur yang sama yaitu busur AE maka:
-                       ∠ACE   =  .......... .......... .......... .......... ........
-                   •  Karena  APB∠   dan  ABE∠  menghadap busur yang sama yaitu busur AE maka:
-                       ∠ABE   =  .......... .......... .......... .......... ........
 
 
-                   ∠ ADE ,  ACE∠   , dan  ABE∠   menghadap busur yang …………… yaitu busur…………
-                   dan besar  ADE∠   =  ..........∠  ....  =  ..........∠  ....
-                   Jadi  besar  sudut-sudut  keliling  yang  menghadap  busur  yang  sama  adalah
-                   ……..……………
+
+
+
+
+
+
+
+
+
+                                                                                                       12]]></page><page Index="17"><![CDATA[4.  Pada gambar di bawah, diketahui KL merupakan diameter lingkaran. Hitunglah:
+                   a.  Nilai x
+                   b.  Besar  KML∠
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                                                            o
-               2.  Perhatikan gambar berikut, ∠AOB   =  130 . Tentukanlah  ACB∠  .
+               5.  Perhatikan gambar berikut, ∠AOB   =  130 . Tentukanlah  ACB∠  .
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       13]]></page><page Index="18"><![CDATA[Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+                                                           o
+                                                                             o
+               6.  Pada gambar di bawah, besar  ∠ACB   =  55 dan ∠CAO   =  20 . Hitunglah besar  OBC∠  .
 
 
 
@@ -956,13 +1082,6 @@
 
                    Penyelesaian:
 
-                                o
-                   ∠AOB   =  130
-                                                  o
-                   Sudut refleksi dari  AOB∠  = 360 −  .......... . =  .......... ........
-                   Sudut refleksi dari  AOB∠  menghadap bujur yang sama dengan  ACB∠   , maka:
-
-                   ∠ACB   =  .......... ..........×  .......... .......... .......... =  .......... .......... .......... ...
 
 
 
@@ -977,7 +1096,22 @@
 
 
 
-                                                                                                       12]]></page><page Index="17"><![CDATA[C.   PANJANG BUSUR DAN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       14]]></page><page Index="19"><![CDATA[C.   PANJANG BUSUR DAN
 
                                      LUAS JURING LINGKARAN
 
@@ -1015,6 +1149,170 @@
                               Video 4 Menentukan Panjang Busur dan Luas Juring Lingkaran
                Video dapat diakses pada: https://youtu.be/iFSmUbaI8pc
 
+                       Saat SD, kalian telah belajar tentang rumus keliling lingkaran dan luas lingkaran. Untuk
+               mengingat kembali materi tersebut, ayo kita cermati penjelasan berikut.
+
+               Perhatikanlah lingkaran-lingkaran berikut ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Terdapat 3 lingkaran yang berbeda yaitu lingkaran dengan pusat A, lingkaran dengan pusat
+               B, dan lingkaran dengan pusat C. Masing-masing lingkaran A, lingkaran B, dan lingkaran kita
+
+
+                                                                                                       15]]></page><page Index="20"><![CDATA[misalkan  panjang  diameternya  secara  berturut-turut  yaitu  d1,  d2,  dan  d3. Dengan  memutari
+               lingkaran sebanyak 1 kali dan jika panjang lintasan kita ukur maka kita akan memperoleh
+               keliling lingkaran. Kita misalkan keliling untuk lingkaran A yaitu K1, keliling untuk lingkaran
+               B  yaitu  K2,  keliling  untuk  lingkaran  C  dan  K3.  Jika  keliling  lingkaran  dibagi  dengan
+                                                                                                 22
+               diameternya  sendiri  maka  akan  memperoleh  nilai  3,14  yang  nilainya  mendekati   .  Jika
+                                                                                                  7
+               ditulis dalam bentuk matematika akan seperti berikut.
+
+
+
+                                                 K     K     K           22
+                                                   1     2     3
+                                                     =     =     =  , 3 14 ≈
+                                                  d    d     d            7
+                                                   1     2    3
+
+
+                                  22
+                   Nilai 3,14 atau   itu dikenal sebagai pi (π  yaitu nilai yang diperoleh dari perbandingan
+                                                             )
+                                   7
+               keliling lingkaran dengan diameter lingkaran. Dalam bentuk umum dapat ditulis:
+
+
+
+                                                =              (persamaan 1)
+
+
+
+
+               Keterangan:
+
+               K = keliling lingkaran
+
+               d = diameter lingkaran
+
+                                        22
+                = nilai tetap (3,14 atau    )
+                                           7
+               Dari persamaan 1, dapat kita peroleh rumus lingkaran yaitu:
+
+                                                           =
+
+
+
+                                                     =  ∙
+
+
+               Karena panjang diameter 2 kali panjang jari jari atau d = 2r maka rumus keliling lingkaran
+               dapat ditulis dengan:
+
+
+
+                                                     = 2
+
+
+
+
+
+
+
+                                                                                                       16]]></page><page Index="21"><![CDATA[Lalu bagaimana dengan luas lingkaran?
+
+               Kita dapat mengetahui luas lingkaran dengan menyimak kegiatan berikut.
+               Perhatikan lingkaran berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Sebuah lingkaran di potong menjadi potongan juring yang sama dan kemudian salah satu
+               juringnya dibagi menjadi 2 sama besar. Perhatikan bahwa banyak juring berwarna biru sama
+               dengan banyak juring yang berwarna kuning sehingga total juring setiap warna adalah setengah
+               lingkaran.  Kemudian  potong  juring-juring  tersebut  dan  disusun  menjadi  bentuk  persegi
+               panjang seperti gambar berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Perhatikan  persegi  panjang  yang  terbentuk  dari  juring  juring  lingkaran.  Panjang  dari
+               persegi panjang yang terbentuk adalah keliling setengah lingkaran yaitu . Sedangkan lebar
+               persegi panjang merupakan jari-jari lingkaran r.
+               Sehingga kita dapatkan rumus lingkaran dari rumus persegi panjang yang ada yaitu:
+
+
+
+                                                                                         !
+                              Luas Lingkaran = L =    =
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       17]]></page><page Index="22"><![CDATA[KEGIATAN C.2
 
 
 
@@ -1047,9 +1345,10 @@
 
 
 
-
-                                                                                                       13]]></page><page Index="18"><![CDATA[Pada kehidupan nyata, rumus panjang busur ini dapat digunakan untuk pada olahraga
+                     Pada kehidupan nyata, rumus panjang busur ini dapat digunakan untuk pada olahraga
                tolak peluru. Perhatikan gambar berikut.
+
+
 
 
 
@@ -1075,10 +1374,11 @@
                diketahui jarak antara anak A dan B serta sudut yang dibentuk oleh anak B, A, dan C dengan
                titik sudutnya berada di A.
 
-               KEGIATAN C.2
 
 
 
+
+                                                                                                       18]]></page><page Index="23"><![CDATA[KEGIATAN C.3
 
 
 
@@ -1088,14 +1388,13 @@
                pusat. Lengkapi sel yang masih kosong pada tabel 3 berikut.
 
                                                          Tabel 3
-
                                                            Rasio  Sudut  pusat  Rasio panjang busur
                                                                            °
-                                                           ∝ terhadap        terhadap      keliling
+                                                           ∝ terhadap #$%       terhadap      keliling
                     No.           Gambar Busur                                  lingkaran
-                                                                    ∝              	 !
+                                                                    ∝              '()*()+	,-.-/
 
-                                                                   °          "#$%$%	$%&!
+                                                                  #$% °          012323)+	23)+4(/()
 
 
 
@@ -1104,10 +1403,10 @@
 
 
                                                                  °
-                                                             '( ∶	*  °
+                                                             !5% ∶	7%  °   #              #
                       1                                                  =
                                                                  °
-                                                              ∶	*  °   +              +
+                                                             #$% ∶	7%  °   8              8
 
 
 
@@ -1120,11 +1419,7 @@
 
 
 
-
-                                                                                                       14]]></page><page Index="19"><![CDATA[2
-
-
-
+                      2
 
 
 
@@ -1149,11 +1444,8 @@
 
 
 
+                                                                                                       19]]></page><page Index="24"><![CDATA[4
 
-
-
-
-                      4
 
 
 
@@ -1180,36 +1472,24 @@
 
 
 
-
-
-
-
-
-
-
-
-                                                                                                       15]]></page><page Index="20"><![CDATA[KEGIATAN C.3
-
-
-
+               KEGIATAN C.4
 
 
 
 
                      Berdasarkan  tabel  3  tersebut,  diketahui  bahwa  rasio  panjang  busur  terhadap  keliling
                                                                                                        o
-                                                                  )
                lingkaran sama dengan  rasio besar sudut pusat  (α  terhadap sudut total lingkaran (360 ).
+                                                                  )
                Sehingga dapat ditulis dalam bentuk persamaan matematisnya yaitu:
 
 
 
 
-                                               ,	-             …
+                                               9	:             …
                                                                     =
                                             
-	.         				…
-
+	;         				…
 
 
 
@@ -1223,16 +1503,17 @@
 
 
 
-               KEGIATAN C.4
+
+
+
+                                                                                                       20]]></page><page Index="25"><![CDATA[KEGIATAN C.5
 
 
 
 
 
-
-               Berdasarkan  kegiatan  C.3,  maka  panjang  busur  lingkaran  yang  dibentuk  oleh  sudut  pusat
+               Berdasarkan  kegiatan  C.5,  maka  panjang  busur  lingkaran  yang  dibentuk  oleh  sudut  pusat
                dengan besar α  dan diketahui keliling lingkarannya yaitu:
-
 
 
 
@@ -1250,10 +1531,7 @@
 
 
 
-
-                                                                                                       16]]></page><page Index="21"><![CDATA[Gambar di atas adalah gambar martabak manis yang ditaburi 8 buah topping berbeda.
-               Kita dapat mencari luas martabak pada setiap topping dengan menggunakan rumus luas juring
-               lingkaran dengan mengetahui sudut yang dibentuk pada masing-masing topping.
+               KEGIATAN C.6
 
 
 
@@ -1261,7 +1539,43 @@
 
 
 
-                                                                                                       17]]></page><page Index="22"><![CDATA[KEGIATAN C.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        Gambar di samping adalah gambar martabak manis
+                                                        yang  ditaburi  8  buah  topping  berbeda.  Kita  dapat
+                                                        mencari luas martabak pada setiap topping dengan
+                                                        menggunakan  rumus  luas  juring  lingkaran  dengan
+                                                        mengetahui  sudut  yang  dibentuk  pada  masing-
+                                                        masing topping.
+
+
+
+                                                                                                       21]]></page><page Index="26"><![CDATA[KEGIATAN C.7
 
 
 
@@ -1271,26 +1585,25 @@
                bersesuaian  dengan  sudut  pusatnya  masing-masing.  Lengkapi  sel  yang  masih  kosong  pada
                tabel 4 berikut.
                                                          Tabel 4
-
-
                                                              Rasio    Sudut  Rasio  luas  juring
                                                              pusat        ∝  terhadap       keliling
                                                                            °
-                      No.          Gambar Juring             terhadap    lingkaran
-                                                                    ∝              0 	!%
+                      No.          Gambar Juring             terhadap #$%   lingkaran
+                                                                    ∝              =-(.	*-/3)+
 
-                                                                   °          0 	$%&!
+                                                                  #$% °          =-(.	23)+4(/()
+
 
 
 
 
                                                                    °
-                                                               '( ∶	*  °
+                                                               !5% ∶	7%  °
                                                                    °
-                       1                                        ∶	*  °
-                                                                                       +
+                       1                                       #$% ∶	7%  °              #
+                                                                 #                      8
                                                                =
-                                                                 +
+                                                                 8
 
 
 
@@ -1318,7 +1631,7 @@
 
 
 
-                       3
+                     3
 
 
 
@@ -1327,14 +1640,7 @@
 
 
 
-
-
-
-
-
-
-
-                                                                                                       18]]></page><page Index="23"><![CDATA[4
+                                                                                                       22]]></page><page Index="27"><![CDATA[4
 
 
 
@@ -1361,22 +1667,24 @@
 
 
 
+               KEGIATAN C.8
 
-               KEGIATAN C.6
 
 
 
 
                        Berdasarkan tabel tersebut, diketahui bahwa rasio luas juring terhadap luas lingkaran
                                                                                         o
-               sama dengan rasio besar sudut pusat (α  terhadap sudut total lingkaran (360 ). Sehingga dapat
                                                      )
+               sama dengan rasio besar sudut pusat (α  terhadap sudut total lingkaran (360 ). Sehingga dapat
                ditulis dalam bentuk persamaan matematisnya yaitu:
 
 
-                                                 .	1           …
+
+
+                                                 ;	>           …
                                                                   =
-                                               .	.        				…
+                                               ;	;        				…
 
 
 
@@ -1392,10 +1700,7 @@
 
 
 
-
-
-
-                                                                                                       19]]></page><page Index="24"><![CDATA[KEGIATAN C.7
+                                                                                                       23]]></page><page Index="28"><![CDATA[KEGIATAN C.7
 
 
 
@@ -1404,7 +1709,7 @@
 
 
 
-                     Berdasarkan kegiatan C.6, maka luas juring lingkaran yang dibentuk oleh sudut pusat
+                     Berdasarkan kegiatan C.7, maka luas juring lingkaran yang dibentuk oleh sudut pusat
                dengan besar α  dan diketahui keliling lingkarannya yaitu:
 
 
@@ -1449,39 +1754,61 @@
                    a.  Panjang busur AB
                    b.  Luas juring OAB
 
+                   Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       24]]></page><page Index="29"><![CDATA[2.
+
+
+
+                                                                                                    o
+                                                       Pada  gambar  di  samping,  besar  ∠AOB  =  120   dan
+                                                                   o
+                                                       ∠COD    =  30 . Jika panjang busur AB = 88 cm, maka
+                                                       panjang busur CD adalah ….
+
+
+
+
+
 
 
                    Penyelesaian:
 
-                                             o
-                   r  =  20 cm dan  ∠AOB  =  36
-                   a.  Panjang busur AB
-                       K        =  .......... .......... .......... .......... ..
-                         Lingkaran
-                                 ..........=  .......... .......... .......... ..
-                                 ..........=  .......... .. cm
 
 
 
-                                                                                                       20]]></page><page Index="25"><![CDATA[∠AOB
-                       Panjang busur =        ×keliling keliling
-                                        360 o
-                                        .......... ...
-                       Panjang busur =          × .......... .......... ..
-                                       .......... ....
-                       Panjang busur = …………………………
-                   b.  Luas juring OAB
-                       L       =  .......... .......... .......... .......... ..
-                        Lingkaran
-                                 ..........=  .......... .......... .......... ..
-                                 ..........=  .......... .. cm 2
-                                     ∠AOB
-                       Luas juring =        ×luas lingkaran
-                                      360  o
-                                     .......... ...
-                       Luas juring =         ×  .......... .......... ..
-                                     .......... ....
-                       Luas juring = …………………………
+
+
+
+
+
+
+                3.
+
+                                                                                                    o
+                                                    Pada  gambar  di  samping,  besar  ∠KOL    =  85   dan
+                                                                                                  2
+                                                                 o
+                                                     ∠MON    =  35 . Jika luas juring  OKL = 34 cm , maka
+                                                    luas juring OMN adalah ….
+
+
+
+
+
+
+
+                   Penyelesaian:
 
 
 
@@ -1492,8 +1819,8 @@
 
 
 
-
-
+                                                                                                       25]]></page><page Index="30"><![CDATA[4.  Pada gambar di berikut, diketahui panjang OP = 18 cm dan PQ = 6 cm. Keliling daerah
+                   yang diarsir adalah ….
 
 
 
@@ -1509,6 +1836,7 @@
 
 
 
+                   Penyelesaian:
 
 
 
@@ -1519,7 +1847,33 @@
 
 
 
-                                                                                                       21]]></page><page Index="26"><![CDATA[D.   GARIS SINGGUNG
+
+               5.
+
+
+
+                                                                                               o
+                                                   Pada  gambar  di  samping,  besar  ∠KOL  =  60 ,  panjang
+                                                   OB  =  14  cm  dan  OC  =  CB.  Luas  daerah  yang  diarsir
+                                                   adalah ….
+
+
+
+
+
+                     Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       26]]></page><page Index="31"><![CDATA[D.   GARIS SINGGUNG
 
                                                   LINGKARAN
 
@@ -1586,7 +1940,7 @@
 
 
 
-                                                                                                       22]]></page><page Index="27"><![CDATA[KEGIATAN D.2
+                                                                                                       27]]></page><page Index="32"><![CDATA[KEGIATAN D.2
 
 
 
@@ -1615,7 +1969,8 @@
                        Gambar di atas merupakan gambar katrol ganda. Katrol pada gambar divisualisasikan
                sebagai  lingkaran  dan  tali  yang  menghubungkan  kedua  katrol  merupakan  garis  singgung
                persekutuannya.  Jadi  katrol  ganda  ini  termasuk  aplikasi  garis  singgung  persekutuan  dalam
-               lingkaran.
+               lingkaran.  Kita  dapat  mencari  panjang  katrol  dengan  menggunakan  rumus  garis  singgung
+               persekutuan dalam dua lingkaran.
                        Apa itu garis singgung persekutuan dalam? Bagaimanakah cara menentukan jarak dua
                titik  singgung  persekutuan  dalam  lingkaran?  Pada  kegiatan  berikut  kita  akan  menentukan
                hubungan mengenai jarak antara kedua titik singgung, jari-jari kedua lingkaran, dengan jarak
@@ -1641,12 +1996,10 @@
 
 
 
-
                                                         Gambar 1
 
 
-
-                                                                                                       23]]></page><page Index="28"><![CDATA[Ruas garis CD adalah salah satu dari dua garis singgung persekutuan dalam lingkaran
+                                                                                                       28]]></page><page Index="33"><![CDATA[Ruas garis CD adalah salah satu dari dua garis singgung persekutuan dalam lingkaran
                A dan B. Titik C merupakan titik singgung pada lingkaran A dan titik D adalah titik singgung
                pada lingkaran B. Ruas garis AB merupakan jarak antara pusat lingkaran A dan pusat lingkaran
                B. Bagaimanakah cara mencari panjang garis singgung CD pada gambar 1. Simaklah video
@@ -1715,7 +2068,7 @@
 
 
 
-                                                                                                       24]]></page><page Index="29"><![CDATA[Dari hasil simulasi dengan membuat ruas garis yang berhimpit dengan CD  dengan
+                                                                                                       29]]></page><page Index="34"><![CDATA[Dari hasil simulasi dengan membuat ruas garis yang berhimpit dengan CD  dengan
 
                      panjang yang sama, kemudian digeser sejauh  r   =  1cm sehingga diperoleh ruas
                                                                    2
@@ -1774,7 +2127,7 @@
 
 
 
-                                                                                                       25]]></page><page Index="30"><![CDATA[KEGIATAN D.4
+                                                                                                       30]]></page><page Index="35"><![CDATA[KEGIATAN D.4
 
 
 
@@ -1810,109 +2163,38 @@
 
                              AB  =  .......... .......... .......... .......... .......... .......... .......... .......... .......... .....
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                KEGIATAN D.5
 
 
 
 
 
+                                                            Gambar  di  samping  merupakan  gambar  gear
+                                                            sepeda yang merupakan contoh garis singgung
+                                                            persekutuan    luar   dua    lingkaran.   Jika
+                                                            diperhatikan  dua  roda  gigi  sepeda  dianggap
+                                                            sebagai  lingkaran  dan  rantai  sepeda  menjadi
+                                                            garis singgung persekutuan luar dua lingkaran.
 
 
-                   Berdasarkan rumus garis singgung persekutuan dalam dua lingkaran yang telah ditemukan,
-               jawablah pertanyaan berikut ini.
 
-               1.  Perhatikan gambar berikut ini.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                   Panjang MN = 10 cm, panjang jari-jari lingkaran M adalah 4 cm, dan panjang jari-jari N
-                   adalah 2 cm. Hitunglah panjang garis singgung persekutuan AB!
-
-
-
-                                                                                                       26]]></page><page Index="31"><![CDATA[Penyelesaian:
-
-
-                      AB adalah garis singgung persekutuan dalam dua lingkaran
-                      Jarak pusat kedua lingkaran = Panjang MN = …………………..
-
-                      Jari-Jari Lingkaran M =  r  =………….
-                                              1
-                      Jari-Jari Lingkaran N =  r  = ………….
-                                              2
-                      Panjang garis singgung persekutuan dalam
-
-                      AB  =  .  .......− .......... ..........
-
-                      AB  =  .  .......− .......... ..........
-
-                      AB  =  .  .......− .......... ..........
-
-                      AB  =  .......... .......... .......... ...
-
-                      Jadi panjang garis singgung persekutuan dalam AB = …………………….
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-               KEGIATAN D.6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                       Gambar di atas merupakan gambar gear sepeda yang merupakan contoh garis singgung
-               persekutuan  luar  dua  lingkaran.  Jika  diperhatikan  dua  roda  gigi  sepeda  dianggap  sebagai
-               lingkaran dan rantai sepeda menjadi garis singgung persekutuan luar dua lingkaran.
-
-
-
-
-
-
-                                                                                                       27]]></page><page Index="32"><![CDATA[Pada kegiatan sebelumnya, kita telah membahas mengenai cara menentukan jarak dua
+                                                                                                       31]]></page><page Index="36"><![CDATA[Pada kegiatan sebelumnya, kita telah membahas mengenai cara menentukan jarak dua
                titik singgung pada garis singgung persekutuan dalam dua lingkaran. Pada kegiatan berikut kita
                akan menentukan jarak dua titik pada garis singgung persekutuan luar dua lingkaran dengan
                mencari  hubungan  mengenai  jarak  antara  kedua  titik  singgung,  jari-jari  kedua  lingkaran,
@@ -1980,7 +2262,7 @@
 
 
 
-                                                                                                       28]]></page><page Index="33"><![CDATA[KEGIATAN D.7
+                                                                                                       32]]></page><page Index="37"><![CDATA[KEGIATAN D.6
 
 
 
@@ -2049,7 +2331,7 @@
 
 
 
-                                                                                                       29]]></page><page Index="34"><![CDATA[Untuk dapat menentukan panjang  FB , maka digunakan rumus pytagoras yaitu:
+                                                                                                       33]]></page><page Index="38"><![CDATA[Untuk dapat menentukan panjang  FB , maka digunakan rumus pytagoras yaitu:
 
 
                                                       2
@@ -2104,7 +2386,7 @@
 
 
 
-                                                                                                       30]]></page><page Index="35"><![CDATA[KEGIATAN D.8
+                                                                                                       34]]></page><page Index="39"><![CDATA[KEGIATAN D.7
 
 
 
@@ -2142,27 +2424,21 @@
 
 
 
-               KEGIATAN D.9
+               KEGIATAN D.8
 
 
 
 
 
-                   Berdasarkan rumus garis singgung persekutuan luar dua lingkaran yang telah ditemukan,
-               jawablah pertanyaan berikut ini.
+                   Berdasarkan garis singgung lingkaran yang telah dipelajari, jawablah pertanyaan berikut
+               ini.
 
-               1.  Perhatikan gambar berikut ini.
+               1.
 
-
-
-
-
-
-
-
-
-
-
+                                                               Pada  gambar  di  samping,  PQ  merupakan
+                                                               garis  singgung.  Panjang  OP  =  26  cm  dan
+                                                               OQ  =  10  cm.  Panjang  garis  singgung  PQ
+                                                               adalah ....
 
 
 
@@ -2174,32 +2450,114 @@
 
 
 
+                                                                                                       35]]></page><page Index="40"><![CDATA[Penyelesaian:
 
 
-                                                                                                       31]]></page><page Index="36"><![CDATA[Panjang PQ = 25 cm, panjang jari-jari lingkaran P adalah 13 cm, dan panjang jari-jari Q
+
+
+
+
+
+
+
+
+
+
+               2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Pada gambar di atas, AB dan AC adalah garis singgung. Panjang OA = 25 cm dan OB = 7
+                  cm. Luas layang-layang OBAC adalah ….
+
+                    Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+
+              3.  Perhatikan gambar berikut ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       36]]></page><page Index="41"><![CDATA[Panjang MN = 10 cm, panjang jari-jari lingkaran M adalah 4 cm, dan panjang jari-jari N
+                   adalah 2 cm. Hitunglah panjang garis singgung persekutuan AB!
+
+
+                      Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+
+
+
+               4.  Perhatikan gambar berikut ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Panjang PQ = 25 cm, panjang jari-jari lingkaran P adalah 13 cm, dan panjang jari-jari Q
                    adalah 6 cm. Hitunglah panjang garis singgung persekutuan luar AB!
 
-                   Penyelesaian:
-
-                       AB adalah garis singgung persekutuan luar dua lingkaran
-
-                       Jarak pusat kedua lingkaran = Panjang PQ = …………………..
-                       Jari-Jari Lingkaran P =  r  =………….
-                                              1
-
-                       Jari-Jari Lingkaran Q =  r  = ………….
-                                               2
-                       Panjang garis singgung persekutuan dalam
-
-                       AB  =  .  .......−  .......... ..........
-
-                       AB  =  .  .......−  .......... ..........
-
-
-                       AB  =  .  .......−  .......... ..........
-                       AB  =  .......... .......... .......... ...
-
-                       Jadi panjang garis singgung persekutuan luar AB = …………………….
+                      Penyelesaian:
 
 
 
@@ -2218,6 +2576,61 @@
 
 
 
+                                                                                                       37]]></page><page Index="42"><![CDATA[5.  Panjang jari-jari dua lingkaran adalah 3 cm dan 2 cm, sedangkan jarak kedua pusatnya 13
+                   cm. Panjang garis singgung persekutuan dalamnya adalah ….
+
+                    Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+               6.  Panjang  jari-jari  dua  lingkaran  adalah  8  cm  dan  3  cm.  jika  panjang  garis  singgung
+                   persekutuannya 12 cm, maka jarak pusatnya adalah ….
+
+                    Penyelesaian:
+
+
+
+
+
+
+
+
+
+
+               7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Gambar  di  atas  adalah  penampang  15  gorong-gorong  air  yang  berbentuk  tabung.  Jika
+                                                                               22
+                   masing-masing  gorong-gorong  berjari  jari  28  cm  dan  π  =  ,  hitunglah  panjang  tali
+                                                                                7
+                   minimal yang diperlukan untuk mengikat 15 gorong-gorong tersebut.
+
+
+
+
+
+
+
+                                                                                                       38]]></page><page Index="43"><![CDATA[Penyelesaian:
 
 
 
@@ -2235,7 +2648,58 @@
 
 
 
-                                                                                                       32]]></page><page Index="37"><![CDATA[DAFTAR PUSTAKA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       39]]></page><page Index="44"><![CDATA[DAFTAR RUJUKAN
 
 
 
